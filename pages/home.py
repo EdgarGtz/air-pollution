@@ -49,7 +49,7 @@ layout = dbc.Container([
         dbc.Col(
             dbc.Card([
                 dbc.CardHeader(
-                    "Aire Limpio",
+                    "Air Pollution Data - San Pedro, México",
                     style={'background-color': '#FFFFFF', 'font-weight': 'bold'}
                 ),
                 dbc.CardBody(
