@@ -1,4 +1,4 @@
-## Air Pollution Data
+## Air Pollution
 
 The metropolitan area of Monterrey, Mexico has one of the worst air quality conditions in the country.
 
